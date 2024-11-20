@@ -35,6 +35,6 @@ public class Coche {
     }
 
     public void encender() {
-        System.out.println("El coche está encendido.");
+        System.out.println("El coch está encendido.");
     }
 }
